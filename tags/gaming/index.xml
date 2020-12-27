@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gaming on Dennis Dunkelmann - Portfolio</title>
+    <link>https://ddunkelmann.github.io/portfolio/tags/gaming/</link>
+    <description>Recent content in gaming on Dennis Dunkelmann - Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Nov 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://ddunkelmann.github.io/portfolio/tags/gaming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mario Kart Setup Analysis</title>
+      <link>https://ddunkelmann.github.io/portfolio/project/mariokart/</link>
+      <pubDate>Mon, 09 Nov 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://ddunkelmann.github.io/portfolio/project/mariokart/</guid>
+      <description>Background This analysis was made for a project within my friends, where each one gives a presentation on a topic of his or her choosing. The other participants have no background in statistics or data analysis, therefore my goal was to keep the analysis as understandable as possible without loosing interesting insights. I wanted to give my listeners something they keep after my presentation and can use for a specific purpose.</description>
+    </item>
+    
+  </channel>
+</rss>
