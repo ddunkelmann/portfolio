@@ -38,6 +38,27 @@
   </url>
   
   <url>
+    <loc>https://ddunkelmann.github.io/portfolio/tags/music/</loc>
+    <lastmod>2018-11-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ddunkelmann.github.io/portfolio/tags/spotify/</loc>
+    <lastmod>2018-11-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ddunkelmann.github.io/portfolio/project/spotify100/</loc>
+    <lastmod>2018-11-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://ddunkelmann.github.io/portfolio/project/</loc>
     <lastmod>2017-01-01T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>

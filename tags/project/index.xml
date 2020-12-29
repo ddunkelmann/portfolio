@@ -16,5 +16,15 @@
       <description>Background This analysis was made for a project within my friends, where each one gives a presentation on a topic of his or her choosing. The other participants have no background in statistics or data analysis, therefore my goal was to keep the analysis as understandable as possible without loosing interesting insights. I wanted to give my listeners something they keep after my presentation and can use for a specific purpose.</description>
     </item>
     
+    <item>
+      <title>Spotify Top 100 2017 Analysis</title>
+      <link>https://ddunkelmann.github.io/portfolio/project/spotify100/</link>
+      <pubDate>Fri, 09 Nov 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://ddunkelmann.github.io/portfolio/project/spotify100/</guid>
+      <description>Background This project was a parallel training session during my university studies, to practice for my practical exam in the Intro Analytics Class. It was also my first time trying and working with Kaggle and a &amp;ldquo;new&amp;rdquo; non-test Dataset (like cars or diamonds).
+Therefore this project was quite old and did not use all of the tricks and code practices I know at this point. I revisited it and rewrote most of the code and plots.</description>
+    </item>
+    
   </channel>
 </rss>

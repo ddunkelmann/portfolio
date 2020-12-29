@@ -25,5 +25,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>music</title>
+      <link>https://ddunkelmann.github.io/portfolio/tags/music/</link>
+      <pubDate>Fri, 09 Nov 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://ddunkelmann.github.io/portfolio/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spotify</title>
+      <link>https://ddunkelmann.github.io/portfolio/tags/spotify/</link>
+      <pubDate>Fri, 09 Nov 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://ddunkelmann.github.io/portfolio/tags/spotify/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

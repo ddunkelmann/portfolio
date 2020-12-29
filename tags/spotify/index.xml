@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spotify on Dennis Dunkelmann - Portfolio</title>
+    <link>https://ddunkelmann.github.io/portfolio/tags/spotify/</link>
+    <description>Recent content in spotify on Dennis Dunkelmann - Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Nov 2018 10:58:08 -0400</lastBuildDate><atom:link href="https://ddunkelmann.github.io/portfolio/tags/spotify/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spotify Top 100 2017 Analysis</title>
+      <link>https://ddunkelmann.github.io/portfolio/project/spotify100/</link>
+      <pubDate>Fri, 09 Nov 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://ddunkelmann.github.io/portfolio/project/spotify100/</guid>
+      <description>Background This project was a parallel training session during my university studies, to practice for my practical exam in the Intro Analytics Class. It was also my first time trying and working with Kaggle and a &amp;ldquo;new&amp;rdquo; non-test Dataset (like cars or diamonds).
+Therefore this project was quite old and did not use all of the tricks and code practices I know at this point. I revisited it and rewrote most of the code and plots.</description>
+    </item>
+    
+  </channel>
+</rss>
