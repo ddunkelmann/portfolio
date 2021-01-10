@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Collection on Dennis Dunkelmann - Portfolio</title>
+    <link>https://ddunkelmann.github.io/portfolio/tags/data-collection/</link>
+    <description>Recent content in Data Collection on Dennis Dunkelmann - Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Nov 2019 10:58:08 -0400</lastBuildDate><atom:link href="https://ddunkelmann.github.io/portfolio/tags/data-collection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Poker Data Collection Shiny</title>
+      <link>https://ddunkelmann.github.io/portfolio/project/poker_shiny/</link>
+      <pubDate>Sat, 09 Nov 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://ddunkelmann.github.io/portfolio/project/poker_shiny/</guid>
+      <description>Background This shiny application was built after my family and I joked about tracking our weekly poker games. We wondered if our comments after a session like Person X won so much today or we had a lot of flushs today would be close to the truth. This application is therefore designed, to allow me to track our games while we are playing.
+You can find the application here.
+Idea and Hypothesis The basic idea was to track information like who won, which hand did he win with, who played against him and how much money was bet.</description>
+    </item>
+    
+  </channel>
+</rss>
