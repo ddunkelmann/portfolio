@@ -38,6 +38,27 @@
   </url>
   
   <url>
+    <loc>https://ddunkelmann.github.io/portfolio/tags/fashion/</loc>
+    <lastmod>2020-09-11T12:00:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ddunkelmann.github.io/portfolio/project/kk_scrape/</loc>
+    <lastmod>2020-09-11T12:00:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ddunkelmann.github.io/portfolio/tags/webscraping/</loc>
+    <lastmod>2020-09-11T12:00:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://ddunkelmann.github.io/portfolio/tags/data-collection/</loc>
     <lastmod>2019-11-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>

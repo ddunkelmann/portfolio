@@ -17,6 +17,16 @@
     </item>
     
     <item>
+      <title>Product Platform Webscraping</title>
+      <link>https://ddunkelmann.github.io/portfolio/project/kk_scrape/</link>
+      <pubDate>Fri, 11 Sep 2020 12:00:00 -0400</pubDate>
+      
+      <guid>https://ddunkelmann.github.io/portfolio/project/kk_scrape/</guid>
+      <description>Background This project was made for the release of the &amp;ldquo;The 50&amp;rdquo; Nike Dunk Off-White Collection. I wanted to analyze if certain colors in the 50 different colorways increased the overall value. I built this webscraping project to gather real world data from a german second-hand fashion marketplace.
+Idea The overall plan was to get specific information about the product, mainly the price and colorway. Over the period of a month the script should scrape all of the new products since the last time.</description>
+    </item>
+    
+    <item>
       <title>Poker Data Collection Shiny</title>
       <link>https://ddunkelmann.github.io/portfolio/project/poker_shiny/</link>
       <pubDate>Sat, 09 Nov 2019 10:58:08 -0400</pubDate>
